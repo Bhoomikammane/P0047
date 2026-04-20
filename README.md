@@ -31,3 +31,4 @@ Simply double-click the `frontend/index.html` file to open it in Google Chrome o
 - Click **"Generate Summary"**.
 - Wait for the server to process the transcript and NLP summary.
 - The results will be neatly laid out in structured tabs!
+
